@@ -25,3 +25,5 @@
 # PyTorch – Backend deep learning framework used by the Transformers library
 
 # Google Colab – Cloud-based environment used to write, run, and test the code
+
+<img width="1782" height="345" alt="Image" src="https://github.com/user-attachments/assets/3fb2fc66-e368-4d62-a458-ffc7915b34ff" />
